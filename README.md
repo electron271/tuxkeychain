@@ -3,6 +3,8 @@ Keychain shaped like Tux, the Linux mascot. But it's not just a keychain, it run
 
 Unfortunately this is more expensive than usual due to tariffs and inflation. (Probably cheaper in other countries.)
 
+**This project is not made by the All Things Linux 501(c)(3) organization. This project is made by All Things Linux staff members.**
+
 NOTE: This is still in the prototype stage, changes to the design are likely.
 
 ## Manufacturing

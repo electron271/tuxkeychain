@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "ef194fb3-58e0-463a-8304-d0defefbdb4a")
 	(paper "A4")
+	(title_block
+		(title "Tux Keychain")
+		(date "2025-05-19")
+		(rev "2")
+	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x04"
 			(pin_names

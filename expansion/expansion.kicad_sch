@@ -8,7 +8,6 @@
 		(title "Tux Keychain Expansion")
 		(date "2025-05-24")
 		(rev "1")
-		(company "All Things Linux 501(c)(3)")
 	)
 	(lib_symbols
 		(symbol "Connector:Micro_SD_Card_Det2"
