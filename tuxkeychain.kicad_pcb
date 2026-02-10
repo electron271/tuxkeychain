@@ -3213,7 +3213,7 @@
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "99876cab-f44e-4bd7-bc08-61318d1be380")
+			(uuid "b68a147e-6973-44f6-8709-7fb823e40f9c")
 			(effects
 				(font
 					(size 1.5 1.5)
@@ -3225,7 +3225,7 @@
 			(at 0.75 0 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "15570873-04fa-407d-ba38-cf0fa03c2f36")
+			(uuid "0607f674-a11e-4094-a00d-1add3a5e23c8")
 			(effects
 				(font
 					(size 1.5 1.5)
@@ -3237,7 +3237,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "87255492-4a5d-4e3e-8625-77e4f7500f29")
+			(uuid "e2a75c89-a5ec-4240-888a-91ca2aac46cb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3249,7 +3249,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "867969e0-70d5-4f2b-bc33-859d15cf358f")
+			(uuid "2a8fe2ad-d87c-45b9-a4be-d0f6d0e68243")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6828,7 +6828,7 @@
 			(at 0 0 90)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "5c6582ac-1a96-4c64-abab-202bf349c4ff")
+			(uuid "0b6cf295-a875-4826-aa53-dde2d5566fb1")
 			(effects
 				(font
 					(size 1.5 1.5)
@@ -6840,7 +6840,7 @@
 			(at 0.75 0 90)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "f4eafbef-92ea-4b81-b45c-378c961511b6")
+			(uuid "a6f5f3b6-920b-4d87-86df-30545e5ca0b2")
 			(effects
 				(font
 					(size 1.5 1.5)
@@ -6852,7 +6852,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "87db49d6-7189-4c5d-8a5d-22029d7479ef")
+			(uuid "9078f0b8-fe52-4ab9-83d2-d4ffab30e789")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6864,7 +6864,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "70ec6614-9079-4805-a5c0-419a47a355d3")
+			(uuid "76e2dd8f-337c-46f6-bccc-cbac0f895dcd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13055,7 +13055,7 @@
 			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "4395fbfc-6981-418c-b953-76c1c48d8853")
+			(uuid "a67e245d-a054-4cf5-be48-0b3e199a6b7c")
 			(effects
 				(font
 					(size 1.5 1.5)
@@ -13067,7 +13067,7 @@
 			(at 0.75 0 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "25bfdc19-23b2-41df-a3f0-6139d2ad93d1")
+			(uuid "39f4a70d-f3ab-4788-8761-21373995c2d3")
 			(effects
 				(font
 					(size 1.5 1.5)
@@ -13079,7 +13079,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d3e0f358-caab-43d0-9a17-8aec7b124bb0")
+			(uuid "3d01c7dd-2190-440e-a261-b951721361bf")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13091,7 +13091,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "250e6e69-aaf2-4baf-9b0d-0a02fb6496c3")
+			(uuid "4e4304b0-ba70-42b4-920a-37a102f6cdcc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14279,7 +14279,7 @@
 			(at 0 0 180)
 			(size 4 4)
 			(drill 4)
-			(layers "F&B.Cu" "*.Mask")
+			(layers "*.Cu" "*.Mask")
 			(clearance 0.1)
 			(zone_connect 0)
 			(uuid "52c663b7-0a13-48e3-a125-337553789dfa")
@@ -14394,7 +14394,7 @@
 		(layer "Edge.Cuts")
 		(uuid "5b74c39e-b699-4a1c-8b65-8a28fe9892be")
 	)
-	(gr_text "allthingslinux.org\n"
+	(gr_text "electron271.gay\n"
 		(locked yes)
 		(at 129 108 15)
 		(layer "F.SilkS")
